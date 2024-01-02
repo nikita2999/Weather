@@ -21,4 +21,4 @@ This is a simple weather app that allows users to check the current weather cond
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nikita2999/weather-app.git
+   git clone https://github.com/nikita2999/Weather.git
